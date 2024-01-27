@@ -1,5 +1,5 @@
 # Redirects from what the browser requests to what we serve
 /home                /
-/All-Posts           https://fluxfusiontechreviews.com/All-Posts
-/newsPro-Tip"s       https://fluxfusiontechreviews.com/Pro-Tip%22s
-/PCs-&-Hardware      https://fluxfusiontechreviews.com/PCs-&-Hardware
+/All-Posts          /All-Posts
+/Pro-Tip"s          /Pro-Tip"s
+/PCs-&-Hardware     /PCs-&-Hardware 
