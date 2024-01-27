@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/All-Posts"
+status = 200
