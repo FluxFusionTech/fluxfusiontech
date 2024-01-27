@@ -1,6 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "/Mobile"
-status = 200
-force = fasle
-query = {path = " :path"}
